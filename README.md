@@ -18,6 +18,7 @@ While my core is in L&D, I’m deeply interested in learning analytics and data-
 
 ## 🛠 Tools I Use
 - Excel / Google Sheets
+- Apps Script (Javascript
 - Power BI (beginner)
 - MySQL (beginner)
 - Canva, PowerPoint (for instructional design)
@@ -28,6 +29,9 @@ While my core is in L&D, I’m deeply interested in learning analytics and data-
 - How to connect training data to business performance
 - Building dashboards in Power BI
 - Writing SQL queries to analyze learner engagement and outcomes
+- Dbeaver
+- Python (Google Collab)
+- SPSS
 
 ## 📫 Let’s Connect
 - Email: hanarohadah@gmail.com
